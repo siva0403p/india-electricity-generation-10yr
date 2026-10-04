@@ -1,4 +1,4 @@
-Set-Content -Path README.md -Value @"
+
 # 10-Year Indian National Electricity Generation Dataset & Pipeline (2016–2026)
 
 [![Audit Status: PASS](https://img.shields.io/badge/Audit-100%25%20PASS-brightgreen)](#automated-quality-control)
