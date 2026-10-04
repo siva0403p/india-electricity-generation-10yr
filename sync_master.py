@@ -13,7 +13,7 @@ from tqdm import tqdm
 PROJECT_ROOT = "."
 RAW_DIR = os.path.join(PROJECT_ROOT, "02_RAW_REPORTS")
 MASTER_WB = os.path.join(
-    PROJECT_ROOT, "07_FINAL_MASTER", "NPP_10YEAR_MASTER.xlsx"
+    PROJECT_ROOT, "07_FINAL_MASTER", "NPP_ELECTRICITY_GENERATION_MASTER.xlsx"
 )
 JIRA_CSV = os.path.join(
     PROJECT_ROOT,

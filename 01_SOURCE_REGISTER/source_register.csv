@@ -1,0 +1,8 @@
+Period,Granularity,Official Source,Backup Source,Status
+2016-01 to 2017-03,Daily,CEA Daily Generation Reports (DGR),Grid-India (POSOCO) PSP Reports,To Verify (Pilot A)
+2017-04 to 2024-12,Daily,NPP Archive / CEA DGR,Grid-India PSP / NITI Aayog Portal,To Verify (Pilot B)
+2025-01 to 2025-07,Daily,NPP Published Reports (DGR R01/R02),CEA Monthly Summaries,Pending Batch Run
+2025-08 to 2026-06,Daily,NPP Report 01 / Report 02 (Derived),CEA Executive Summaries,VERIFIED (Existing Dataset)
+2026-07-01 to 2026-07-08,Daily,NPP DGR R01,NPP R02,VERIFIED (Partial Month)
+2026-07-09 to 2026-09-30,Daily,NPP Published Reports Live/Archive,CEA DGR,Pending Collection (Pilot D)
+2016-01 to 2026-09,Monthly,CEA Executive Summary (Table 1: Generation BU),NPP Monthly Actual Reports,11 Months Verified; 118 Months To Ingest
