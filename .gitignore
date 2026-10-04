@@ -1,0 +1,13 @@
+# Ignore raw binary dumps and archives
+02_RAW_REPORTS/
+*.zip
+*.pdf
+*.xls
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# OS/Editor temporary files
+.vscode/
+~$*
